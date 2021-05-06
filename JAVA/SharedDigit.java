@@ -1,3 +1,4 @@
+package Practice_Questions;
 public class SharedDigit {
     public static boolean hasSharedDigit(int firstValue, int secondValue) {
         if (firstValue < 10 || firstValue > 99 || secondValue < 10 || secondValue > 99) {
